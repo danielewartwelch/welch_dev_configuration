@@ -1,3 +1,4 @@
+#
 #up and down arrows for history
 if [ -f ~/.git-completion.bash ]; then
   . ~/.git-completion.bash
